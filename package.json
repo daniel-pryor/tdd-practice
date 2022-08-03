@@ -1,0 +1,23 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-pryor/tdd-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-pryor/tdd-practice/issues"
+  },
+  "homepage": "https://github.com/daniel-pryor/tdd-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
